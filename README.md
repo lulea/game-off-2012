@@ -21,7 +21,7 @@ Ingredients
 ------------------
 + HTML5
 + CSS3
-+ [CoffeeScript](http://coffeescript.org/)
++ [CoffeeScript 1](https://www.npmjs.com/package/coffee-script)
 + [WebGL](http://en.wikipedia.org/wiki/WebGL)
 + [jQuery](http://jquery.com)
 + [Font Awesome](http://fortawesome.github.com/Font-Awesome)
